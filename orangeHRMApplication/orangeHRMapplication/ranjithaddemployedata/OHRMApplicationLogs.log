@@ -1,0 +1,207 @@
+[main] INFO log -  Expected OrangeHrm Login Page text is -LOGIN Panel
+[main] INFO log -  Actual Orangehrm Login Page text is - LOGIN Panel
+[main] INFO log -  Successfully Navigated to the OrangeHRM Application LogIN Page - TEXT Found - PASS 
+[main] INFO log -  Expected OrangeHrm Login Page title is - orangeHRM
+[main] INFO log -  Actual OrangeHrm Login Page title is -OrangeHRM
+[main] INFO log -  Failed to Navigate to the OrangeHRM Application LogIN Page - FAIL 
+[main] INFO log -  The Expected URL address of the OrangeHRM Application LogIN Page is :- orangehrm-4.2.0.1
+[main] INFO log -  The Actual URL address of the OrangeHRM Application LogIN Page is :- http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO log -  Successfully Navigated to the OrangeHRM Application LogIN Page - PASS 
+[main] INFO log - Actual OrangeHrm Home Page Text - Welcome Admin
+[main] INFO log - Expected  Home Page text is - Admin
+[main] INFO log -  Successfully Navigated to the OrangeHRM Application Home Page - PASS 
+[main] INFO log -  Expected text of Add Employe page is - Full Name
+[main] INFO log -  Actual text of Add Employe page is - Full Name
+[main] INFO log -  Successfully Navigated to the OrangeHRM Application ADD Employe Page -TEXT  Found - PASS 
+[main] INFO log - Expected orangeHRM Add Employe Page Employe First name - Srini01
+[main] INFO log - Expected orangeHRM Add Employe Page Employe Meddle name - Hello01
+[main] INFO log - Expected OrangeHrm Add Employe Page Employe Last name - Chello01
+[main] INFO log - Expected OrangeHrm Add Employe Page Employe  id - 0014
+[main] INFO log - Expected Personal details page text is - Full Name
+[main] INFO log - Actual Personal details page Text is - Full Name
+[main] INFO log - The Actual personal details page Text is matched with Expected personal details page Text- PASS
+[main] INFO log - Actual OrangeHrm Add Employe First name is - Srini01
+[main] INFO log - Actua OrangeHrm Add Employe page employe Meddle name isHello01
+[main] INFO log - Actua OrangeHrm Add Employe page employe last name is - Chello01
+[main] INFO log - Actual OrangrHrm Add Employe page Employe Id is - 0014
+[main] INFO log - The Actual FirstName is matched with Expected FirstName- PASS
+[main] INFO log - The Actual MeddleName is matched with Expected MeddleNameame - PASS
+[main] INFO log - The Actual LastName is matched with Expected LastName - PASS
+[main] INFO log - The Actual EmployeId is matched with Expected EmployeId - PASS
+[main] INFO log -  Expected text of Add Employe page is - Full Name
+[main] INFO log -  Actual text of Add Employe page is - Full Name
+[main] INFO log -  Successfully Navigated to the OrangeHRM Application ADD Employe Page -TEXT  Found - PASS 
+[main] INFO log - Expected orangeHRM Add Employe Page Employe First name - Ram02
+[main] INFO log - Expected orangeHRM Add Employe Page Employe Meddle name - HEllo02
+[main] INFO log - Expected OrangeHrm Add Employe Page Employe Last name - Chello02
+[main] INFO log - Expected OrangeHrm Add Employe Page Employe  id - 0015
+[main] INFO log - Expected Personal details page text is - Full Name
+[main] INFO log - Actual Personal details page Text is - Full Name
+[main] INFO log - The Actual personal details page Text is matched with Expected personal details page Text- PASS
+[main] INFO log - Actual OrangeHrm Add Employe First name is - Ram02
+[main] INFO log - Actua OrangeHrm Add Employe page employe Meddle name isHEllo02
+[main] INFO log - Actua OrangeHrm Add Employe page employe last name is - Chello02
+[main] INFO log - Actual OrangrHrm Add Employe page Employe Id is - 0015
+[main] INFO log - The Actual FirstName is matched with Expected FirstName- PASS
+[main] INFO log - The Actual MeddleName is matched with Expected MeddleNameame - PASS
+[main] INFO log - The Actual LastName is matched with Expected LastName - PASS
+[main] INFO log - The Actual EmployeId is matched with Expected EmployeId - PASS
+[main] INFO log -  Expected text of Add Employe page is - Full Name
+[main] INFO log -  Actual text of Add Employe page is - Full Name
+[main] INFO log -  Successfully Navigated to the OrangeHRM Application ADD Employe Page -TEXT  Found - PASS 
+[main] INFO log - Expected orangeHRM Add Employe Page Employe First name - Raj03
+[main] INFO log - Expected orangeHRM Add Employe Page Employe Meddle name - Hello03
+[main] INFO log - Expected OrangeHrm Add Employe Page Employe Last name - Chello03
+[main] INFO log - Expected OrangeHrm Add Employe Page Employe  id - 0016
+[main] INFO log - Expected Personal details page text is - Full Name
+[main] INFO log - Actual Personal details page Text is - Full Name
+[main] INFO log - The Actual personal details page Text is matched with Expected personal details page Text- PASS
+[main] INFO log - Actual OrangeHrm Add Employe First name is - Raj03
+[main] INFO log - Actua OrangeHrm Add Employe page employe Meddle name isHello03
+[main] INFO log - Actua OrangeHrm Add Employe page employe last name is - Chello03
+[main] INFO log - Actual OrangrHrm Add Employe page Employe Id is - 0016
+[main] INFO log - The Actual FirstName is matched with Expected FirstName- PASS
+[main] INFO log - The Actual MeddleName is matched with Expected MeddleNameame - PASS
+[main] INFO log - The Actual LastName is matched with Expected LastName - PASS
+[main] INFO log - The Actual EmployeId is matched with Expected EmployeId - PASS
+[main] INFO log -  Expected OrangeHrm Login Page text is -LOGIN Panel
+[main] INFO log -  Actual Orangehrm Login Page text is - LOGIN Panel
+[main] INFO log -  Successfully Navigated to the OrangeHRM Application LogIN Page - TEXT Found - PASS 
+[main] INFO log -  Expected OrangeHrm Login Page text is -LOGIN Panel
+[main] INFO log -  Actual Orangehrm Login Page text is - LOGIN Panel
+[main] INFO log -  Successfully Navigated to the OrangeHRM Application LogIN Page - TEXT Found - PASS 
+[main] INFO log -  Expected OrangeHrm Login Page title is - orangeHRM
+[main] INFO log -  Actual OrangeHrm Login Page title is -OrangeHRM
+[main] INFO log -  Failed to Navigate to the OrangeHRM Application LogIN Page - FAIL 
+[main] INFO log -  The Expected URL address of the OrangeHRM Application LogIN Page is :- orangehrm-4.2.0.1
+[main] INFO log -  The Actual URL address of the OrangeHRM Application LogIN Page is :- http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO log -  Successfully Navigated to the OrangeHRM Application LogIN Page - PASS 
+[main] INFO log - Actual OrangeHrm Home Page Text - Welcome Admin
+[main] INFO log - Expected  Home Page text is - Admin
+[main] INFO log -  Successfully Navigated to the OrangeHRM Application Home Page - PASS 
+[main] INFO log -  Expected text of Add Employe page is - Full Name
+[main] INFO log -  Actual text of Add Employe page is - Full Name
+[main] INFO log -  Successfully Navigated to the OrangeHRM Application ADD Employe Page -TEXT  Found - PASS 
+[main] INFO log - Expected orangeHRM Add Employe Page Employe First name - Srini01
+[main] INFO log - Expected orangeHRM Add Employe Page Employe Meddle name - Hello01
+[main] INFO log - Expected OrangeHrm Add Employe Page Employe Last name - Chello01
+[main] INFO log - Expected OrangeHrm Add Employe Page Employe  id - 0017
+[main] INFO log - Expected Personal details page text is - Full Name
+[main] INFO log - Actual Personal details page Text is - Full Name
+[main] INFO log - The Actual personal details page Text is matched with Expected personal details page Text- PASS
+[main] INFO log - Actual OrangeHrm Add Employe First name is - Srini01
+[main] INFO log - Actua OrangeHrm Add Employe page employe Meddle name isHello01
+[main] INFO log - Actua OrangeHrm Add Employe page employe last name is - Chello01
+[main] INFO log - Actual OrangrHrm Add Employe page Employe Id is - 0017
+[main] INFO log - The Actual FirstName is matched with Expected FirstName- PASS
+[main] INFO log - The Actual MeddleName is matched with Expected MeddleNameame - PASS
+[main] INFO log - The Actual LastName is matched with Expected LastName - PASS
+[main] INFO log - The Actual EmployeId is matched with Expected EmployeId - PASS
+[main] INFO log -  Expected text of Add Employe page is - Full Name
+[main] INFO log -  Actual text of Add Employe page is - Full Name
+[main] INFO log -  Successfully Navigated to the OrangeHRM Application ADD Employe Page -TEXT  Found - PASS 
+[main] INFO log - Expected orangeHRM Add Employe Page Employe First name - Ram02
+[main] INFO log - Expected orangeHRM Add Employe Page Employe Meddle name - HEllo02
+[main] INFO log - Expected OrangeHrm Add Employe Page Employe Last name - Chello02
+[main] INFO log - Expected OrangeHrm Add Employe Page Employe  id - 0018
+[main] INFO log - Expected Personal details page text is - Full Name
+[main] INFO log - Actual Personal details page Text is - Full Name
+[main] INFO log - The Actual personal details page Text is matched with Expected personal details page Text- PASS
+[main] INFO log - Actual OrangeHrm Add Employe First name is - Ram02
+[main] INFO log - Actua OrangeHrm Add Employe page employe Meddle name isHEllo02
+[main] INFO log - Actua OrangeHrm Add Employe page employe last name is - Chello02
+[main] INFO log - Actual OrangrHrm Add Employe page Employe Id is - 0018
+[main] INFO log - The Actual FirstName is matched with Expected FirstName- PASS
+[main] INFO log - The Actual MeddleName is matched with Expected MeddleNameame - PASS
+[main] INFO log - The Actual LastName is matched with Expected LastName - PASS
+[main] INFO log - The Actual EmployeId is matched with Expected EmployeId - PASS
+[main] INFO log -  Expected text of Add Employe page is - Full Name
+[main] INFO log -  Actual text of Add Employe page is - Full Name
+[main] INFO log -  Successfully Navigated to the OrangeHRM Application ADD Employe Page -TEXT  Found - PASS 
+[main] INFO log - Expected orangeHRM Add Employe Page Employe First name - Raj03
+[main] INFO log - Expected orangeHRM Add Employe Page Employe Meddle name - Hello03
+[main] INFO log - Expected OrangeHrm Add Employe Page Employe Last name - Chello03
+[main] INFO log - Expected OrangeHrm Add Employe Page Employe  id - 0019
+[main] INFO log - Expected Personal details page text is - Full Name
+[main] INFO log - Actual Personal details page Text is - Full Name
+[main] INFO log - The Actual personal details page Text is matched with Expected personal details page Text- PASS
+[main] INFO log - Actual OrangeHrm Add Employe First name is - Raj03
+[main] INFO log - Actua OrangeHrm Add Employe page employe Meddle name isHello03
+[main] INFO log - Actua OrangeHrm Add Employe page employe last name is - Chello03
+[main] INFO log - Actual OrangrHrm Add Employe page Employe Id is - 0019
+[main] INFO log - The Actual FirstName is matched with Expected FirstName- PASS
+[main] INFO log - The Actual MeddleName is matched with Expected MeddleNameame - PASS
+[main] INFO log - The Actual LastName is matched with Expected LastName - PASS
+[main] INFO log - The Actual EmployeId is matched with Expected EmployeId - PASS
+[main] INFO log -  Expected OrangeHrm Login Page text is -LOGIN Panel
+[main] INFO log -  Actual Orangehrm Login Page text is - LOGIN Panel
+[main] INFO log -  Successfully Navigated to the OrangeHRM Application LogIN Page - TEXT Found - PASS 
+[main] INFO log -  Expected OrangeHrm Login Page text is -LOGIN Panel
+[main] INFO log -  Actual Orangehrm Login Page text is - LOGIN Panel
+[main] INFO log -  Successfully Navigated to the OrangeHRM Application LogIN Page - TEXT Found - PASS 
+[main] INFO log -  Expected OrangeHrm Login Page title is - orangeHRM
+[main] INFO log -  Actual OrangeHrm Login Page title is -OrangeHRM
+[main] INFO log -  Failed to Navigate to the OrangeHRM Application LogIN Page - FAIL 
+[main] INFO log -  The Expected URL address of the OrangeHRM Application LogIN Page is :- orangehrm-4.2.0.1
+[main] INFO log -  The Actual URL address of the OrangeHRM Application LogIN Page is :- http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO log -  Successfully Navigated to the OrangeHRM Application LogIN Page - PASS 
+[main] INFO log - Actual OrangeHrm Home Page Text - Welcome Admin
+[main] INFO log - Expected  Home Page text is - Admin
+[main] INFO log -  Successfully Navigated to the OrangeHRM Application Home Page - PASS 
+[main] INFO log -  Expected text of Add Employe page is - Full Name
+[main] INFO log -  Actual text of Add Employe page is - Full Name
+[main] INFO log -  Successfully Navigated to the OrangeHRM Application ADD Employe Page -TEXT  Found - PASS 
+[main] INFO log - Expected orangeHRM Add Employe Page Employe First name - Srini01
+[main] INFO log - Expected orangeHRM Add Employe Page Employe Meddle name - Hello01
+[main] INFO log - Expected OrangeHrm Add Employe Page Employe Last name - Chello01
+[main] INFO log - Expected OrangeHrm Add Employe Page Employe  id - 0020
+[main] INFO log - Expected Personal details page text is - Full Name
+[main] INFO log - Actual Personal details page Text is - Full Name
+[main] INFO log - The Actual personal details page Text is matched with Expected personal details page Text- PASS
+[main] INFO log - Actual OrangeHrm Add Employe First name is - Srini01
+[main] INFO log - Actua OrangeHrm Add Employe page employe Meddle name isHello01
+[main] INFO log - Actua OrangeHrm Add Employe page employe last name is - Chello01
+[main] INFO log - Actual OrangrHrm Add Employe page Employe Id is - 0020
+[main] INFO log - The Actual FirstName is matched with Expected FirstName- PASS
+[main] INFO log - The Actual MeddleName is matched with Expected MeddleNameame - PASS
+[main] INFO log - The Actual LastName is matched with Expected LastName - PASS
+[main] INFO log - The Actual EmployeId is matched with Expected EmployeId - PASS
+[main] INFO log -  Expected text of Add Employe page is - Full Name
+[main] INFO log -  Actual text of Add Employe page is - Full Name
+[main] INFO log -  Successfully Navigated to the OrangeHRM Application ADD Employe Page -TEXT  Found - PASS 
+[main] INFO log - Expected orangeHRM Add Employe Page Employe First name - Ram02
+[main] INFO log - Expected orangeHRM Add Employe Page Employe Meddle name - HEllo02
+[main] INFO log - Expected OrangeHrm Add Employe Page Employe Last name - Chello02
+[main] INFO log - Expected OrangeHrm Add Employe Page Employe  id - 0021
+[main] INFO log - Expected Personal details page text is - Full Name
+[main] INFO log - Actual Personal details page Text is - Full Name
+[main] INFO log - The Actual personal details page Text is matched with Expected personal details page Text- PASS
+[main] INFO log - Actual OrangeHrm Add Employe First name is - Ram02
+[main] INFO log - Actua OrangeHrm Add Employe page employe Meddle name isHEllo02
+[main] INFO log - Actua OrangeHrm Add Employe page employe last name is - Chello02
+[main] INFO log - Actual OrangrHrm Add Employe page Employe Id is - 0021
+[main] INFO log - The Actual FirstName is matched with Expected FirstName- PASS
+[main] INFO log - The Actual MeddleName is matched with Expected MeddleNameame - PASS
+[main] INFO log - The Actual LastName is matched with Expected LastName - PASS
+[main] INFO log - The Actual EmployeId is matched with Expected EmployeId - PASS
+[main] INFO log -  Expected text of Add Employe page is - Full Name
+[main] INFO log -  Actual text of Add Employe page is - Full Name
+[main] INFO log -  Successfully Navigated to the OrangeHRM Application ADD Employe Page -TEXT  Found - PASS 
+[main] INFO log - Expected orangeHRM Add Employe Page Employe First name - Raj03
+[main] INFO log - Expected orangeHRM Add Employe Page Employe Meddle name - Hello03
+[main] INFO log - Expected OrangeHrm Add Employe Page Employe Last name - Chello03
+[main] INFO log - Expected OrangeHrm Add Employe Page Employe  id - 0022
+[main] INFO log - Expected Personal details page text is - Full Name
+[main] INFO log - Actual Personal details page Text is - Full Name
+[main] INFO log - The Actual personal details page Text is matched with Expected personal details page Text- PASS
+[main] INFO log - Actual OrangeHrm Add Employe First name is - Raj03
+[main] INFO log - Actua OrangeHrm Add Employe page employe Meddle name isHello03
+[main] INFO log - Actua OrangeHrm Add Employe page employe last name is - Chello03
+[main] INFO log - Actual OrangrHrm Add Employe page Employe Id is - 0022
+[main] INFO log - The Actual FirstName is matched with Expected FirstName- PASS
+[main] INFO log - The Actual MeddleName is matched with Expected MeddleNameame - PASS
+[main] INFO log - The Actual LastName is matched with Expected LastName - PASS
+[main] INFO log - The Actual EmployeId is matched with Expected EmployeId - PASS
+[main] INFO log -  Expected OrangeHrm Login Page text is -LOGIN Panel
+[main] INFO log -  Actual Orangehrm Login Page text is - LOGIN Panel
+[main] INFO log -  Successfully Navigated to the OrangeHRM Application LogIN Page - TEXT Found - PASS 

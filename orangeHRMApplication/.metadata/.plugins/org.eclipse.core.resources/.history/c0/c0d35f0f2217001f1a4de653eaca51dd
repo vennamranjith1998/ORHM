@@ -1,0 +1,28 @@
+package com.radii;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
+
+import org.testng.annotations.Test;
+
+import com.webtablecity.basetest;
+
+public class createaccount extends BaseTest
+{
+	@Test
+	public void logInTest()
+	{
+	
+	//<a href="http://register.rediff.com/register/register"
+	//		+ ".php?FormName=user_details" title="Create Rediffmail Account">Create Account</a>
+	
+By createaccountproperty=By.linkText("Create Account");
+
+ WebElement createaccount=driver.findElement(createaccountproperty);
+ createaccount.click();
+ 
+
+}
+
+
+}

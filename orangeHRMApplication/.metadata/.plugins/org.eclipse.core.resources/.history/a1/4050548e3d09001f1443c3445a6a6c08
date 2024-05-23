@@ -1,0 +1,91 @@
+package OrangeHRMfunction;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class OrangeHRMmultipletestdata 
+{
+	public static void main(String[] args) {
+		WebDriver driver;
+		String applicationUrlAddress="http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard";
+
+
+		System.setProperty("webdriver.chrome.driver", "./browserDriverFiles/broswerDriverFiles/chromedriver.exe");
+		//WebDriver driver = new ChromeDriver();
+		driver = new ChromeDriver();
+
+		driver.get(applicationUrlAddress);
+
+		// Expected Title should be - OrangeHRM
+
+
+		String expected_OrangeHRMApplicationLogInPageTitle="OrangeHRM";
+		System.out.println(" The expected Title of the OrangeHRM Application LogIN Page is :- "+expected_OrangeHRMApplicationLogInPageTitle);
+
+
+		String actual_OrangeHRMApplicationLogInPageTitle=driver.getTitle();
+		System.out.println(" The actual Title of the OrangeHRM Application LogIN Page is :- "+actual_OrangeHRMApplicationLogInPageTitle);
+
+		if(actual_OrangeHRMApplicationLogInPageTitle.equals(expected_OrangeHRMApplicationLogInPageTitle))
+		{
+		System.out.println(" Successfully Navigated to the OrangeHRM Application LogIN Page - PASS ");
+		}
+		else
+		{
+		System.out.println(" Failed to Navigate to the OrangeHRM Application LogIN Page - FAIL ");
+		}
+
+		System.out.println();
+		// Expected Url Address shold have - orangehrm-4.2.0.1
+
+
+		String expected_OrangeHRMApplicationLogInPageUrlAddress="orangehrm-4.2.0.1";
+		System.out.println(" The Expected URL address of the OrangeHRM Application LogIN Page is :- "+expected_OrangeHRMApplicationLogInPageUrlAddress);
+
+		String actual_OrangeHRMApplicationLogInPageUrlAddress=driver.getCurrentUrl();
+		System.out.println(" The Actual URL address of the OrangeHRM Application LogIN Page is :- "+actual_OrangeHRMApplicationLogInPageUrlAddress);
+
+		if(actual_OrangeHRMApplicationLogInPageUrlAddress.contains(expected_OrangeHRMApplicationLogInPageUrlAddress))
+		{
+		System.out.println(" Successfully Navigated to the OrangeHRM Application LogIN Page - PASS ");
+		}
+		else
+		{
+		System.out.println(" Failed to Navigate to the OrangeHRM Application LogIN Page - FAIL ");
+		}
+
+		System.out.println();
+
+		// Expected LogIN Page TEXT - LOGIN Panel
+
+		String expected_OrangeHRMApplicationLogInPageText="LOGIN Panel";
+		System.out.println(" The Expected TEXT of the OrangeHRM Application LogIN page is :- "+expected_OrangeHRMApplicationLogInPageText);
+
+		// id="logInPanelHeading"
+		By orangeHRMApplicationLogInPageLogInPanelTextProperty=By.id("logInPanelHeading");
+		WebElement orangeHRMApplicationLogInPageLogInPanel=driver.findElement(orangeHRMApplicationLogInPageLogInPanelTextProperty);
+
+		String actual_OrangeHRMApplicationLogInPageLogInPanelText=orangeHRMApplicationLogInPageLogInPanel.getText();
+
+		System.out.println(" The Acutal Text of OrangeHRM Application LogIn Page TEXT is :- "+actual_OrangeHRMApplicationLogInPageLogInPanelText);
+
+		if(actual_OrangeHRMApplicationLogInPageLogInPanelText.equals(expected_OrangeHRMApplicationLogInPageText))
+		{
+		System.out.println(" Successfully Navigated to the OrangeHRM Application LogIN Page - TEXT Found - PASS ");
+		}
+		else
+		{
+		System.out.println(" Failed to Navigate to the OrangeHRM Application LogIN Page - TEXT NOT Found - FAIL ");
+		}
+
+		System.out.println();
+
+		// getting the Test Data from the External File
+		
+	} {
+		
+	}
+
+}

@@ -1,0 +1,20 @@
+package UserDefinedMethods;
+
+public class MethodExamples {
+	public void srini()
+	{
+		System.out.println("this is a Srini User Define Method");
+	}
+	
+	public static void main(String[]args)
+	{
+		System.out.println("this is the main Method of the java language");
+		MethodExamples m1=new MethodExamples();
+		System.out.println();
+		m1.srinu();
+		m1.srinu();
+		m1.srinu();
+		
+	}
+
+}

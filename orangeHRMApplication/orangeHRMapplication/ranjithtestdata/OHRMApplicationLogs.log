@@ -1,0 +1,52 @@
+[main] INFO log -  Expected OrangeHrm Login Page text is -LOGIN Panel
+[main] INFO log -  Actual Orangehrm Login Page text is - "+OrangeHRMApplicationLogInPageLogInPanelText
+[main] INFO log -  Expected OrangeHrm Login Page title is - orangeHRM
+[main] INFO log -  Actual OrangeHrm Login Page title is -OrangeHRM
+[main] INFO log -  Failed to Navigate to the OrangeHRM Application LogIN Page - FAIL 
+[main] INFO log -  The Expected URL address of the OrangeHRM Application LogIN Page is :- orangehrm-4.2.0.1
+[main] INFO log -  The Actual URL address of the OrangeHRM Application LogIN Page is :- http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO log -  Successfully Navigated to the OrangeHRM Application LogIN Page - PASS 
+[main] INFO log -  Expected OrangeHrm Login Page text is -Invalid credentials
+[main] INFO log -  Actual Orangehrm Login Page text is - Invalid credentials
+[main] INFO log -  Failed to Navigate to the OrangeHRM Application Home Page - TEXT Not Found - FAIL 
+[main] INFO log -  Expected OrangeHrm Login Page text is -LOGIN Panel
+[main] INFO log -  Actual Orangehrm Login Page text is - "+OrangeHRMApplicationLogInPageLogInPanelText
+[main] INFO log -  Expected OrangeHrm Login Page title is - orangeHRM
+[main] INFO log -  Actual OrangeHrm Login Page title is -OrangeHRM
+[main] INFO log -  Failed to Navigate to the OrangeHRM Application LogIN Page - FAIL 
+[main] INFO log -  The Expected URL address of the OrangeHRM Application LogIN Page is :- orangehrm-4.2.0.1
+[main] INFO log -  The Actual URL address of the OrangeHRM Application LogIN Page is :- http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/validateCredentials
+[main] INFO log -  Successfully Navigated to the OrangeHRM Application LogIN Page - PASS 
+[main] INFO log -  Expected OrangeHrm Login Page text is -Invalid credentials
+[main] INFO log -  Actual Orangehrm Login Page text is - Invalid credentials
+[main] INFO log -  Failed to Navigate to the OrangeHRM Application Home Page - TEXT Not Found - FAIL 
+[main] INFO log -  Expected OrangeHrm Login Page text is -LOGIN Panel
+[main] INFO log -  Actual Orangehrm Login Page text is - "+OrangeHRMApplicationLogInPageLogInPanelText
+[main] INFO log -  Expected OrangeHrm Login Page title is - orangeHRM
+[main] INFO log -  Actual OrangeHrm Login Page title is -OrangeHRM
+[main] INFO log -  Failed to Navigate to the OrangeHRM Application LogIN Page - FAIL 
+[main] INFO log -  The Expected URL address of the OrangeHRM Application LogIN Page is :- orangehrm-4.2.0.1
+[main] INFO log -  The Actual URL address of the OrangeHRM Application LogIN Page is :- http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/validateCredentials
+[main] INFO log -  Successfully Navigated to the OrangeHRM Application LogIN Page - PASS 
+[main] INFO log -  Expected OrangeHrm Login Page text is -Invalid credentials
+[main] INFO log -  Actual Orangehrm Login Page text is - Invalid credentials
+[main] INFO log -  Failed to Navigate to the OrangeHRM Application Home Page - TEXT Not Found - FAIL 
+[main] INFO log -  Expected OrangeHrm Login Page text is -LOGIN Panel
+[main] INFO log -  Actual Orangehrm Login Page text is - "+OrangeHRMApplicationLogInPageLogInPanelText
+[main] INFO log -  Expected OrangeHrm Login Page title is - orangeHRM
+[main] INFO log -  Actual OrangeHrm Login Page title is -OrangeHRM
+[main] INFO log -  Failed to Navigate to the OrangeHRM Application LogIN Page - FAIL 
+[main] INFO log -  The Expected URL address of the OrangeHRM Application LogIN Page is :- orangehrm-4.2.0.1
+[main] INFO log -  The Actual URL address of the OrangeHRM Application LogIN Page is :- http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/validateCredentials
+[main] INFO log -  Successfully Navigated to the OrangeHRM Application LogIN Page - PASS 
+[main] INFO log -  Expected OrangeHrm Login Page text is -Invalid credentials
+[main] INFO log -  Actual Orangehrm Login Page text is - Invalid credentials
+[main] INFO log -  Failed to Navigate to the OrangeHRM Application Home Page - TEXT Not Found - FAIL 
+[main] INFO log -  Expected OrangeHrm Login Page text is -
+[main] INFO log -  Actual Orangehrm Login Page text is - "+OrangeHRMApplicationLogInPageLogInPanelText
+[main] INFO log -  Expected OrangeHrm Login Page title is - 
+[main] INFO log -  Actual OrangeHrm Login Page title is -OrangeHRM
+[main] INFO log -  Failed to Navigate to the OrangeHRM Application LogIN Page - FAIL 
+[main] INFO log -  The Expected URL address of the OrangeHRM Application LogIN Page is :- orangehrm-4.2.0.1
+[main] INFO log -  The Actual URL address of the OrangeHRM Application LogIN Page is :- http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/validateCredentials
+[main] INFO log -  Successfully Navigated to the OrangeHRM Application LogIN Page - PASS 

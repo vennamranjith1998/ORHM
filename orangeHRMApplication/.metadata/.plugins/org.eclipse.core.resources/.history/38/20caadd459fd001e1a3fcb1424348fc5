@@ -1,0 +1,10 @@
+package com.getti;
+
+public class Amazon_GetingTitle_HomePage {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

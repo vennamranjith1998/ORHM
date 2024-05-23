@@ -1,0 +1,90 @@
+
+  //Properties file
+
+    # OrangeHRM Application LogIn Page LogIn Panel WebElement Locator is ID
+
+      #    Key = value(property of the WebElement)
+
+       logInPageLogInPanelProperty=logInPanelHeading
+
+
+
+       # OrangeHRM Application LogIn Page UserName WebElement Locator is ID
+
+        logInPageUserNameProperty=txtUsername
+
+
+
+       # OrangeHRM Application LogIn Page Password WebElement Locator is name
+
+        logInPagepasswordProperty=txtPassword
+
+
+
+    # OrangeHRM Application LogIn Page Password WebElement Locator is Class
+
+     logInPageLogInButtonProperty=button
+
+
+
+     # OrangeHRM Application HomePage Page WelComeAdmin WebElement Locator is partialLinkText
+ 
+    orangeHRMApplicationHomePageWelComeAdminProperty=Welcome
+
+
+
+    # OrangeHRM Application HomePage Page LogOut WebElement Locator is LinkText
+
+    homePagelogOutProperty=Logout
+
+
+
+     #OrangeHrm Application Log In Page Login Panel InvalidCredantials As locator is ID  
+
+     logInPageLoginPannelInvalidCreadintialProperty=spanMessage
+
+
+
+    #OrangeHRM Application HomePage Pim WebElement Locator As PartialLinkText
+
+    orangeHRMApplicationHomePagePIMProperty=PIM
+
+
+
+   #OrangeHRm Application Home page Add Employe WebElement Locator as id
+
+   orangHRMApplicationAddEmployeProperty=menu_pim_addEmploye
+
+
+
+   #OrangeHRm Application Ad employee page "Add Employe" Text  WebElement Locatror As LinkText
+
+  orangeHRMApplicationAddEmployePageAddEmployeTextProperty=Add Employe
+
+
+
+   #OrangeHRMApplication Add  Employe Page  First name WebElement property  Locator As ID
+
+   orangeHrmApplicationAddEmployepageFirstNameProperty=firstName
+
+
+
+   #OrangeHrmApplication Add Employe Page Middle Name WebElement property Locator As iD
+
+   orangeHrmApplicationAddEmployepageMeddleNameProperty=middleName
+
+
+
+    #OrangeHrm Application Add Employe Page Last Name WebElement Property Locator As Id
+
+   orangeHrmApplicationAddEmployepageLastNameProperty=lastName
+
+
+
+   #OrangeHrm Application Add employe Page Employe ID WebElement Property Locator As id
+
+   orangeHrmApplicationAddEmployepageEmployeIdProperty  =employeeId
+   
+   
+   
+   

@@ -1,0 +1,52 @@
+2024-05-15 15:03:28,014 - log -INFO -  Expected OrangeHrm Login Page text is -LOGIN Panel
+2024-05-15 15:03:28,057 - log -INFO -  Actual Orangehrm Login Page text is - "+OrangeHRMApplicationLogInPageLogInPanelText
+2024-05-15 15:03:28,076 - log -INFO -  Expected OrangeHrm Login Page title is - orangeHRM
+2024-05-15 15:03:28,084 - log -INFO -  Actual OrangeHrm Login Page title is -OrangeHRM
+2024-05-15 15:03:28,086 - log -INFO -  Failed to Navigate to the OrangeHRM Application LogIN Page - FAIL 
+2024-05-15 15:03:28,089 - log -INFO -  The Expected URL address of the OrangeHRM Application LogIN Page is :- orangehrm-4.2.0.1
+2024-05-15 15:03:28,096 - log -INFO -  The Actual URL address of the OrangeHRM Application LogIN Page is :- http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+2024-05-15 15:03:28,099 - log -INFO -  Successfully Navigated to the OrangeHRM Application LogIN Page - PASS 
+2024-05-15 15:03:28,623 - log -INFO -  Expected OrangeHrm Login Page text is -Invalid credentials
+2024-05-15 15:03:28,643 - log -INFO -  Actual Orangehrm Login Page text is - Invalid credentials
+2024-05-15 15:03:28,645 - log -INFO -  Failed to Navigate to the OrangeHRM Application Home Page - TEXT Not Found - FAIL 
+2024-05-15 15:03:28,861 - log -INFO -  Expected OrangeHrm Login Page text is -LOGIN Panel
+2024-05-15 15:03:28,895 - log -INFO -  Actual Orangehrm Login Page text is - "+OrangeHRMApplicationLogInPageLogInPanelText
+2024-05-15 15:03:28,898 - log -INFO -  Expected OrangeHrm Login Page title is - orangeHRM
+2024-05-15 15:03:28,907 - log -INFO -  Actual OrangeHrm Login Page title is -OrangeHRM
+2024-05-15 15:03:28,912 - log -INFO -  Failed to Navigate to the OrangeHRM Application LogIN Page - FAIL 
+2024-05-15 15:03:28,916 - log -INFO -  The Expected URL address of the OrangeHRM Application LogIN Page is :- orangehrm-4.2.0.1
+2024-05-15 15:03:28,924 - log -INFO -  The Actual URL address of the OrangeHRM Application LogIN Page is :- http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/validateCredentials
+2024-05-15 15:03:28,925 - log -INFO -  Successfully Navigated to the OrangeHRM Application LogIN Page - PASS 
+2024-05-15 15:03:29,379 - log -INFO -  Expected OrangeHrm Login Page text is -Invalid credentials
+2024-05-15 15:03:29,405 - log -INFO -  Actual Orangehrm Login Page text is - Invalid credentials
+2024-05-15 15:03:29,406 - log -INFO -  Failed to Navigate to the OrangeHRM Application Home Page - TEXT Not Found - FAIL 
+2024-05-15 15:03:29,518 - log -INFO -  Expected OrangeHrm Login Page text is -LOGIN Panel
+2024-05-15 15:03:29,536 - log -INFO -  Actual Orangehrm Login Page text is - "+OrangeHRMApplicationLogInPageLogInPanelText
+2024-05-15 15:03:29,539 - log -INFO -  Expected OrangeHrm Login Page title is - orangeHRM
+2024-05-15 15:03:29,546 - log -INFO -  Actual OrangeHrm Login Page title is -OrangeHRM
+2024-05-15 15:03:29,547 - log -INFO -  Failed to Navigate to the OrangeHRM Application LogIN Page - FAIL 
+2024-05-15 15:03:29,549 - log -INFO -  The Expected URL address of the OrangeHRM Application LogIN Page is :- orangehrm-4.2.0.1
+2024-05-15 15:03:29,556 - log -INFO -  The Actual URL address of the OrangeHRM Application LogIN Page is :- http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/validateCredentials
+2024-05-15 15:03:29,557 - log -INFO -  Successfully Navigated to the OrangeHRM Application LogIN Page - PASS 
+2024-05-15 15:03:29,952 - log -INFO -  Expected OrangeHrm Login Page text is -Invalid credentials
+2024-05-15 15:03:29,970 - log -INFO -  Actual Orangehrm Login Page text is - Invalid credentials
+2024-05-15 15:03:29,971 - log -INFO -  Failed to Navigate to the OrangeHRM Application Home Page - TEXT Not Found - FAIL 
+2024-05-15 15:03:30,088 - log -INFO -  Expected OrangeHrm Login Page text is -LOGIN Panel
+2024-05-15 15:03:30,109 - log -INFO -  Actual Orangehrm Login Page text is - "+OrangeHRMApplicationLogInPageLogInPanelText
+2024-05-15 15:03:30,111 - log -INFO -  Expected OrangeHrm Login Page title is - orangeHRM
+2024-05-15 15:03:30,118 - log -INFO -  Actual OrangeHrm Login Page title is -OrangeHRM
+2024-05-15 15:03:30,119 - log -INFO -  Failed to Navigate to the OrangeHRM Application LogIN Page - FAIL 
+2024-05-15 15:03:30,122 - log -INFO -  The Expected URL address of the OrangeHRM Application LogIN Page is :- orangehrm-4.2.0.1
+2024-05-15 15:03:30,129 - log -INFO -  The Actual URL address of the OrangeHRM Application LogIN Page is :- http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/validateCredentials
+2024-05-15 15:03:30,131 - log -INFO -  Successfully Navigated to the OrangeHRM Application LogIN Page - PASS 
+2024-05-15 15:03:30,514 - log -INFO -  Expected OrangeHrm Login Page text is -Invalid credentials
+2024-05-15 15:03:30,530 - log -INFO -  Actual Orangehrm Login Page text is - Invalid credentials
+2024-05-15 15:03:30,532 - log -INFO -  Failed to Navigate to the OrangeHRM Application Home Page - TEXT Not Found - FAIL 
+2024-05-15 15:03:30,654 - log -INFO -  Expected OrangeHrm Login Page text is -
+2024-05-15 15:03:30,677 - log -INFO -  Actual Orangehrm Login Page text is - "+OrangeHRMApplicationLogInPageLogInPanelText
+2024-05-15 15:03:30,679 - log -INFO -  Expected OrangeHrm Login Page title is - 
+2024-05-15 15:03:30,687 - log -INFO -  Actual OrangeHrm Login Page title is -OrangeHRM
+2024-05-15 15:03:30,689 - log -INFO -  Failed to Navigate to the OrangeHRM Application LogIN Page - FAIL 
+2024-05-15 15:03:30,692 - log -INFO -  The Expected URL address of the OrangeHRM Application LogIN Page is :- orangehrm-4.2.0.1
+2024-05-15 15:03:30,698 - log -INFO -  The Actual URL address of the OrangeHRM Application LogIN Page is :- http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/validateCredentials
+2024-05-15 15:03:30,700 - log -INFO -  Successfully Navigated to the OrangeHRM Application LogIN Page - PASS 
